@@ -8,7 +8,7 @@ function Social() {
             <i class="uil uil-linkedin"></i>
         </a>
 
-        <a href="https://www.linkedin.com/in/rondinelle-cunha/" className="home__social-icon" target="_blank">
+        <a href="https://github.com/rondicunha" className="home__social-icon" target="_blank">
             <i class="uil uil-github-alt"></i>
         </a>
 
