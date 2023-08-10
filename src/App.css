@@ -115,7 +115,7 @@ img {
 }
 
 .section__title,
-section__subtitle {
+.section__subtitle {
   text-align: center;
 }
 
@@ -170,8 +170,15 @@ section__subtitle {
 }
 
 @media screen and (max-width: 768px) {
+  body {
+    margin: 0 0 var(--header-height) 0;
+  }
   .section {
     padding: 2rem 0 4rem;
+  }
+
+  .section__subtitle {
+    margin-bottom: var(--mb-3);
   }
 }
 
