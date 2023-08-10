@@ -16,8 +16,8 @@ function About() {
                 <Info />
 
                 <p className="about__description">
-                    Sou um desenvolvedor Full Stack, apaixonado por transformar conceitos criativos em soluções digitais funcionais. 
-                    Com conhecimentos em Java, Python, Spring e PostgreSQL no back-end, e em HTML, CSS, JavaScript e React no front-end. 
+                    Sou um desenvolvedor <b>Full Stack</b>, apaixonado por transformar conceitos criativos em soluções digitais funcionais. 
+                    Com conhecimentos em <b>Java</b>, <b>Python</b>, <b>Spring</b> e <b>PostgreSQL</b> no back-end, e em <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e <b>React</b> no front-end. 
                     Comprometido com a aprendizagem contínua e pronto para contribuir em projetos inovadores. Minha abordagem colaborativa 
                     e minha busca constante por aprendizado me permitem enfrentar desafios de maneira inovadora e entregar resultados 
                     excepcionais. Estou entusiasmado em contribuir para equipes dinâmicas e projetos desafiadores, trazendo minhas 
