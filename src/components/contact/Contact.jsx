@@ -37,7 +37,7 @@ function Contact() {
                         <h3 className="contact__card-title">Whatsapp</h3>
                         <span className="contact__card-data">+55 (84) 98735-8138</span>
 
-                        <a href="https://wa.me/5584987358138" className="contact__button"> Escreva-me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                        <a href="https://wa.me/5584987358138" className="contact__button" target="_blank"> Escreva-me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
 
                 </div>

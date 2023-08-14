@@ -9,6 +9,7 @@
 .project__img {
     width: 400px;
     height: 150px;
+    border-radius: 0.5rem;
 }
 
 .project__data {

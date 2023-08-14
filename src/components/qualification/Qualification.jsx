@@ -36,7 +36,7 @@ function Qualification() {
                                 <span className="qualification__subtitle"> UFRN - Universidade Federal do Rio Grande do Norte</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
-                                    2023 - Present
+                                    07/2023 - Present
                                 </div>
                             </div>
 
@@ -59,7 +59,7 @@ function Qualification() {
                                 <span className="qualification__subtitle"> UFRN - Universidade Federal do Rio Grande do Norte</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
-                                    2017 - 2023
+                                    07/2017 - 07/2023
                                 </div>
                             </div>
                         </div>
@@ -68,11 +68,11 @@ function Qualification() {
                 <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">Web Developer</h3>
-                            <span className="qualification__subtitle"> Spain - institute</span>
+                            <h3 className="qualification__title">Analista Requisitos (Estágio)</h3>
+                            <span className="qualification__subtitle"> STI - Superintendência de Tecnologia da Informação</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>
-                                2021 - Present
+                                04/2021 - Present
                             </div>
                         </div>
 
@@ -82,23 +82,7 @@ function Qualification() {
                         </div>
                     </div>
 
-                    <div className="qualification__data">
-                        <div></div>
-
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-
-                        <div>
-                            <h3 className="qualification__title">Requisitos</h3>
-                            <span className="qualification__subtitle"> Spain - institute</span>
-                            <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i>
-                                2021 - Present
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>

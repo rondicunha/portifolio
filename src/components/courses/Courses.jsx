@@ -39,12 +39,22 @@ function Courses() {
 
                             <li className="courses__modal-course">
                                 <i className="uil uil-check-circle courses__modal-icon"></i>
-                                <p className="courses__modal-info">Spring - DIO</p>
+                                <p className="courses__modal-info">Testes unitários com JUnit - DIO</p>
                             </li>
 
                             <li className="courses__modal-course">
                                 <i className="uil uil-check-circle courses__modal-icon"></i>
-                                <p className="courses__modal-info">SQL - DIO</p>
+                                <p className="courses__modal-info">Realizando deploy na nuvem de um conjunto de API's desenvolvida em Spring -DIO</p>
+                            </li>
+
+                            <li className="courses__modal-course">
+                                <i className="uil uil-check-circle courses__modal-icon"></i>
+                                <p className="courses__modal-info">Conceitos e melhores práticas com PostgreSQL - DIO</p>
+                            </li>
+
+                            <li className="courses__modal-course">
+                                <i className="uil uil-check-circle courses__modal-icon"></i>
+                                <p className="courses__modal-info">CRUD completo com Spring Boot REST API - JDev</p>
                             </li>
                         </ul>
                     </div>
@@ -72,12 +82,12 @@ function Courses() {
                         <ul className="courses__modal-courses grid">
                             <li className="courses__modal-course">
                                 <i className="uil uil-check-circle courses__modal-icon"></i>
-                                <p className="courses__modal-info">HTML e CSS - DIO</p>
+                                <p className="courses__modal-info">Introdução a Criação de Websites com HTML5 e CSS3 - DIO</p>
                             </li>
 
                             <li className="courses__modal-course">
                                 <i className="uil uil-check-circle courses__modal-icon"></i>
-                                <p className="courses__modal-info">React - melhorando tudo</p>
+                                <p className="courses__modal-info">JavaScript - Curso em Vídeo</p>
                             </li>
 
                         </ul>
