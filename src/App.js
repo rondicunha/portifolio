@@ -8,6 +8,9 @@ import Courses from './components/courses/Courses';
 import Qualification from './components/qualification/Qualification';
 import Projects from './components/projects/Projects';
 import Contact from './components/contact/Contact';
+import Footer from './components/footer/Footer';
+import ScrollUp from './components/scrollup/ScrollUp';
+
 function App() {
   return (
     <>
@@ -22,6 +25,9 @@ function App() {
         <Projects />
         <Contact />
       </main>
+
+      <Footer />
+      <ScrollUp />
     </>
   );
 }
