@@ -11,7 +11,7 @@ function Projects() {
   return (
     <section className="projects container section" id='projetos'>
         <h2 className="section__title">Projetos</h2>
-        <span className="section__subtitle">Principais projetos</span>
+        <span className="section__subtitle">Principais Projetos</span>
 
         <div className="projects__container">
             <div className="project__data">
@@ -59,7 +59,7 @@ function Projects() {
             <div className="project__data">
                 <img src={Image4} alt="" className="project__img" />
 
-                <h3 className="project__title">Tela de login</h3>
+                <h3 className="project__title">Tela de Login</h3>
                 <p className="project__description">Tela de login simples construída com HTML, CSS e JavaScript, com efeito Light e Dark.</p>
                 <div className="project__icons-box">
                     <a href="https://rondicunha.github.io/simple-login-screen/" className='project__icon' target="_blank">
@@ -74,7 +74,7 @@ function Projects() {
             <div className="project__data">
                 <img src={Image5} alt="" className="project__img" />
 
-                <h3 className="project__title">Carrinho de compras API </h3>
+                <h3 className="project__title">Carrinho de Compras API </h3>
                 <p className="project__description">Sacola API para Servir uma Aplicação com Domínio de Delivery, contruida com Java, Spring, 
                                 Spring Boot, PostgreSQL, Lombok entre outras tecnologias.</p>
                 <div className="project__icons-box">

@@ -36,7 +36,7 @@ function Qualification() {
                                 <span className="qualification__subtitle"> UFRN - Universidade Federal do Rio Grande do Norte</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>
-                                    07/2023 - Present
+                                    07/2023 - Atual
                                 </div>
                             </div>
 
@@ -72,7 +72,7 @@ function Qualification() {
                             <span className="qualification__subtitle"> STI - Superintendência de Tecnologia da Informação</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>
-                                04/2021 - Present
+                                04/2021 - Atual
                             </div>
                         </div>
 

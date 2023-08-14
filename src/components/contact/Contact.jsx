@@ -19,7 +19,7 @@ function Contact() {
 
         <div className="contact__container container grid">
             <div className="contact__content">
-                <h3 className="contact__title">Fale comigo</h3>
+                <h3 className="contact__title">Fale Comigo</h3>
 
                 <div className="contact__info">
                     <div className="contact__card">
@@ -44,7 +44,7 @@ function Contact() {
             </div>
 
             <div className="contact__content">
-                <h3 className="contact__title">Mande uma proposta</h3>
+                <h3 className="contact__title">Mande uma Proposta</h3>
 
                 <form ref={form} onSubmit={sendEmail} className="contact__form">
                     <div className="contact__form-div">
@@ -63,7 +63,7 @@ function Contact() {
                     </div>
 
                     <button className="button button-flex">
-                        Enviar mensagem.
+                        Enviar Mensagem.
                         <svg 
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"

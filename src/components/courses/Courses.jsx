@@ -10,7 +10,7 @@ function Courses() {
   return (
     <section className="courses section">
         <h2 className="section__title">Cursos</h2>
-        <span className="section__subtitle">Extra curriculáres</span>
+        <span className="section__subtitle">Extra Curriculares</span>
 
         <div className="courses__container container grid">
             <div className="courses__content">
